@@ -1,5 +1,6 @@
 # fsdse-python-assignment-126
 
+# Implement a set of stacks class that wraps a list of capacity-bounded stacks
 ## Constraints
 * Can we assume we already have a stack class that can be used for this problem?
 	* Yes
